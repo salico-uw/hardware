@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Salico Picker Motor Controller Breakout\Salico Picker Motor Controller Breakout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=salico picker motor controller breakout-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=salico picker motor controller breakout-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
